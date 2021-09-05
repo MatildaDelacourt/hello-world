@@ -7,4 +7,3 @@ readme-edits
 # hello-world
 
 **Hey Hey!**
-main-hello-world
